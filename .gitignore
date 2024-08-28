@@ -1,0 +1,8 @@
+/target/
+/logs/
+/build/
+.classpath
+.project
+.settings
+hs_err_pid*
+replay_*
